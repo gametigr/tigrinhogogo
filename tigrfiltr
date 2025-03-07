@@ -1,0 +1,9 @@
+{
+    "TigrEnable": false,
+    "TigrLang": ["Russian"],
+    "TigrTime": ["Yekaterinburg"],
+    "TigrLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
