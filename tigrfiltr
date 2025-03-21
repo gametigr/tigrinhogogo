@@ -1,9 +1,9 @@
 {
-    "TigrEnable": false,
-    "TigrLang": ["Russian"],
-    "TigrTime": ["Yekaterinburg"],
+    "TigrEnable": true,
+    "TigrLang": ["Portuguese"],
+    "TigrTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "TigrLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wgxql.com/v3/fortune-tiger?p=p25b"]}
     ]
  }
