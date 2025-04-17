@@ -1,0 +1,9 @@
+{
+    "TigrEnable": false,
+    "TigrLang": ["Portuguese"],
+    "TigrTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "TigrLink": 
+    [ 
+          { "Lang":"Portuguese", "Links": [""]}
+    ]
+ }
